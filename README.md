@@ -48,3 +48,4 @@ Tips to check if an exe file is safe:
 ### Educational Purposes Only
 This tool demonstrates and makes it easy to create your own grabber. This shows what type of information attackers can grab from a victim's computer.
 Only use this on your own PC and do not use it on other people maliciously.
+
